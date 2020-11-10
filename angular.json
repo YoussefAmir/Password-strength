@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "password-app"
+    }
+  },
+  "defaultProject": "password-app",
+  "cli": {
+    "analytics": "2b9f335d-8949-43c8-9f35-06ce7d4e3f2d"
+  }
 }
